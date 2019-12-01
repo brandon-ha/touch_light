@@ -12,6 +12,6 @@ Heavily modified implementation of [pblesi's touch_light Particle project]([http
 - New color cycle LED animation 
 - Tweaked sensitivity values
 - Flash storage system implemented (used to store WiFi credentials and MQTT information)
-- 
+
 ### Flashing
 Open sketch in Arduino IDE, install ESP8266 libraries under Board Manager, compile, write to Arduino.
