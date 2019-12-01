@@ -10,20 +10,20 @@
 // AP INFO
 #define AP_TIMEOUT 20 // in seconds
 #define AP_SSID "AutoConnect"
-#define AP_PASS "1133557799"
+#define AP_PASS "APp@ssword"
 
 // MQTT Max Attempts
 #define MQTT_MAX_ATTEMPTS 5
 
 // LAMP INFO
-#define LAMP_NAME "cunnie"
-#define LAMP_INDEX 1
+#define LAMP_NAME "insert_lamp_name"
+#define LAMP_INDEX 0
 
 // STATUS LIGHT COLORS
 #define WIFI_CONNECTED strip.Color(127, 127, 127)
 #define CALIBRATED strip.Color(255, 255, 0)
 #define MQTT_CONNECTED strip.Color(0, 255, 0)
-#define CONNECTION_ERROR strip.Color(255, 158, 61)
+#define CONNECTION_ERROR strip.Color(255, 158, 0)
 
 // Pin Mapping
 #define LED_PIN 10
