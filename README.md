@@ -1,7 +1,6 @@
 
 # touch_light_nodemcu
-Short demo:
-[![Alt text](https://imgur.com/1dLWVOE.jpg)](https://youtu.be/Ediuyl3Jnzo)
+![Touch Lights](https://imgur.com/1dLWVOE.jpg)
 ## What is touch_light_nodemcu?
 Heavily modified implementation of [pblesi's touch_light Particle project](https://github.com/pblesi/touch_light). The purpose of the original project is to synchronize WiFi-connected touch lights as a way to help connect individuals together from across the globe. I decided to dedicate my time into this because the NodeMCU can be found for significantly less than the Particle Photon used in pblesi's project (~$5 vs $20). Given the lower cost, I felt that this solution would encourage more people to experiment with touch lights.
 
